@@ -14,7 +14,6 @@ type
     btnEditar: TSpeedButton;
     btnSalvar: TSpeedButton;
     btnExcluir: TSpeedButton;
-    Panel1: TPanel;
     btnCancelar: TSpeedButton;
   private
     { Private declarations }

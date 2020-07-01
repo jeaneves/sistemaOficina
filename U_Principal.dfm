@@ -1,7 +1,6 @@
 object F_Principal: TF_Principal
   Left = 0
   Top = 0
-  BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = 'Sistema de Oficina - Principal'
   ClientHeight = 569
@@ -15,6 +14,7 @@ object F_Principal: TF_Principal
   Menu = MainMenu1
   OldCreateOrder = False
   Position = poScreenCenter
+  WindowState = wsMaximized
   PixelsPerInch = 96
   TextHeight = 13
   object Panel1: TPanel
@@ -1091,8 +1091,8 @@ object F_Principal: TF_Principal
     OnClick = Button1Click
   end
   object MainMenu1: TMainMenu
-    Left = 424
-    Top = 128
+    Left = 648
+    Top = 344
     object Cadastros1: TMenuItem
       Caption = '&Manuten'#231#245'es'
     end
