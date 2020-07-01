@@ -26,8 +26,6 @@ object F_CadPadrao: TF_CadPadrao
     BevelKind = bkSoft
     Locked = True
     TabOrder = 0
-    ExplicitTop = 248
-    ExplicitWidth = 517
     object btnNovo: TSpeedButton
       Left = 161
       Top = 4
@@ -1660,14 +1658,5 @@ object F_CadPadrao: TF_CadPadrao
       ParentShowHint = False
       ShowHint = True
     end
-  end
-  object Panel1: TPanel
-    Left = 0
-    Top = 0
-    Width = 624
-    Height = 273
-    Align = alTop
-    BevelKind = bkSoft
-    TabOrder = 1
   end
 end
