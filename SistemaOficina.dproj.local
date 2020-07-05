@@ -2,15 +2,22 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2020/05/02 12:15:29.000.335,=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 18:51:40.540,=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 18:54:30.643,C:\SistemaOficina\U_Principal.pas=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 18:54:30.643,C:\SistemaOficina\U_Principal.dfm=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020/06/29 18:54:39.982,C:\SistemaOficina\SistemaOficina.dproj=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2020/06/29 18:58:51.399,=C:\SistemaOficina\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 19:08:14.637,C:\SistemaOficina\U_CadPadrao.dfm=C:\SistemaOficina\Unit1.dfm</Transaction>
-    <Transaction>2020/06/29 19:08:14.637,C:\SistemaOficina\U_CadPadrao.pas=C:\SistemaOficina\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 19:29:07.683,=C:\SistemaOficina\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 19:38:08.124,C:\SistemaOficina\U_ConsPadrao.pas=C:\SistemaOficina\Unit1.pas</Transaction>
-    <Transaction>2020/06/29 19:38:08.124,C:\SistemaOficina\U_ConsPadrao.dfm=C:\SistemaOficina\Unit1.dfm</Transaction>
+    <Transaction>2020/06/29 18:51:40.000.540,=C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/29 18:54:30.000.643,C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\SistemaOficina\U_Principal.pas</Transaction>
+    <Transaction>2020/06/29 18:54:30.000.643,C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\SistemaOficina\U_Principal.dfm</Transaction>
+    <Transaction>2020/06/29 18:54:39.000.982,C:\Users\Jamanta\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\SistemaOficina\SistemaOficina.dproj</Transaction>
+    <Transaction>2020/06/29 18:58:51.000.399,=C:\SistemaOficina\Unit1.pas</Transaction>
+    <Transaction>2020/06/29 19:08:14.000.637,C:\SistemaOficina\Unit1.dfm=C:\SistemaOficina\U_CadPadrao.dfm</Transaction>
+    <Transaction>2020/06/29 19:08:14.000.637,C:\SistemaOficina\Unit1.pas=C:\SistemaOficina\U_CadPadrao.pas</Transaction>
+    <Transaction>2020/06/29 19:29:07.000.683,=C:\SistemaOficina\Unit1.pas</Transaction>
+    <Transaction>2020/06/29 19:38:08.000.124,C:\SistemaOficina\Unit1.dfm=C:\SistemaOficina\U_ConsPadrao.dfm</Transaction>
+    <Transaction>2020/06/29 19:38:08.000.124,C:\SistemaOficina\Unit1.pas=C:\SistemaOficina\U_ConsPadrao.pas</Transaction>
+    <Transaction>2020/07/04 23:10:21.000.963,=C:\sistemaOficina\Unit1.pas</Transaction>
+    <Transaction>2020/07/04 23:17:55.000.077,C:\sistemaOficina\Unit1.dfm=C:\sistemaOficina\U_Modulo.dfm</Transaction>
+    <Transaction>2020/07/04 23:17:55.000.077,C:\sistemaOficina\Unit1.pas=C:\sistemaOficina\U_Modulo.pas</Transaction>
+    <Transaction>2020/07/04 23:22:28.000.197,=C:\sistemaOficina\Unit1.pas</Transaction>
+    <Transaction>2020/07/04 23:24:52.000.134,C:\sistemaOficina\Unit1.dfm=C:\sistemaOficina\U_CadastroClienteFornecedor.dfm</Transaction>
+    <Transaction>2020/07/04 23:24:52.000.134,C:\sistemaOficina\Unit1.pas=C:\sistemaOficina\U_CadastroClienteFornecedor.pas</Transaction>
+    <Transaction>2020/07/04 23:26:17.000.534,=C:\sistemaOficina\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
